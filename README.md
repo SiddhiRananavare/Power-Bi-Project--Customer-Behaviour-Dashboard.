@@ -49,3 +49,9 @@ Customer segmentation helps target marketing effectively
 ⭐ Acknowledgment
 
 This project is part of my learning journey in Data Analytics & Data Science.
+
+
+
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/140d5324-078e-4d54-bf78-eb1937526804" />
+
+
