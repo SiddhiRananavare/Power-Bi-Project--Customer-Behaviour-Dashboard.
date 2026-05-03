@@ -9,29 +9,41 @@ This project is a Power BI dashboard designed to analyze customer behavior and p
 🎯 Objectives
 
 Analyze customer purchasing behavior
+
 Identify trends and patterns
+
 Improve customer retention strategies
+
 Support business decision-making with visual insights
 
 📊 Dashboard Features
 
 📈 Sales trend analysis
+
 👥 Customer segmentation
+
 💰 Revenue insights
+
 🛍️ Product performance
+
 📅 Time-based analysis
 
 🛠️ Tools & Technologies
 
 Power BI
+
 Microsoft Excel / CSV
+
 Data Cleaning & Transformation
+
 Data Visualization
 
 📊 Key Insights
 
 Customers show higher engagement during specific time periods
+
 Certain products contribute most to revenue
+
 Customer segmentation helps target marketing effectively
 
 ⭐ Acknowledgment
